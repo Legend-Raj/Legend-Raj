@@ -1,7 +1,7 @@
 ![logo](https://github.com/Night-Owl-afk/first/assets/172845975/54187efd-8308-4fb2-911a-9e087eb53e87)
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=26F71C&random=false&width=435&lines=+I'm+a+passionate+Engineer.;I+am+a+developer+and+a+programmer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=26F71C&random=false&width=600&lines=+I'm+a+passionate+Engineer.;I'm+a+developer+and+a+programmer.)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legend-raj&label=Profile%20views&color=0e75b6&style=flat" alt="legend-raj" /> </p>
