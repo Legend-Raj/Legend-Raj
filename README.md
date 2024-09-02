@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/piyush-raj-2a5b58259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-raj-2a5b58259" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rpiyush737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rpiyush737" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/legendaryraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="legendaryraj1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/emceecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="legendaryraj1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/legendaryraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/legendaryraj/" height="30" width="40" /></a>
 </p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legend-Raj&hide_progress=true) -->
